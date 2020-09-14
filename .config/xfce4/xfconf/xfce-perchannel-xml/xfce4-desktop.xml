@@ -17,80 +17,244 @@
   <property name="backdrop" type="empty">
     <property name="screen0" type="empty">
       <property name="monitor0" type="empty">
-        <property name="image-path" type="string" value="/home/oleg/.config/variety/Downloaded/flickr_user_www_flickr_com_photos_peter_levi__user_id_93647178_N00_/7527879442_0bf0888027_o.jpg"/>
+        <property name="image-path" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
         <property name="image-style" type="empty"/>
         <property name="image-show" type="empty"/>
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/oleg/.config/variety/Favorites/20130206-212121_wind_high_resolution.jpg"/>
+          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
           <property name="backdrop-cycle-enable" type="bool" value="false"/>
           <property name="backdrop-cycle-random-order" type="bool" value="true"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/flickr_user_www_flickr_com_photos_peter_levi__user_id_93647178_N00_/7527879442_0bf0888027_o.jpg"/>
+          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/flickr_user_www_flickr_com_photos_peter_levi__user_id_93647178_N00_/7527879442_0bf0888027_o.jpg"/>
+          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/flickr_user_www_flickr_com_photos_peter_levi__user_id_93647178_N00_/7527879442_0bf0888027_o.jpg"/>
+          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/flickr_user_www_flickr_com_photos_peter_levi__user_id_93647178_N00_/7527879442_0bf0888027_o.jpg"/>
+          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/flickr_user_www_flickr_com_photos_peter_levi__user_id_93647178_N00_/7527879442_0bf0888027_o.jpg"/>
+          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/flickr_user_www_flickr_com_photos_peter_levi__user_id_93647178_N00_/7527879442_0bf0888027_o.jpg"/>
+          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
         </property>
       </property>
       <property name="monitor1" type="empty">
-        <property name="image-path" type="string" value="/home/oleg/.config/variety/Downloaded/flickr_user_www_flickr_com_photos_peter_levi__user_id_93647178_N00_/7527879442_0bf0888027_o.jpg"/>
+        <property name="image-path" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
         <property name="image-style" type="empty"/>
         <property name="image-show" type="empty"/>
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/flickr_user_www_flickr_com_photos_peter_levi__user_id_93647178_N00_/7527879442_0bf0888027_o.jpg"/>
+          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/flickr_user_www_flickr_com_photos_peter_levi__user_id_93647178_N00_/7527879442_0bf0888027_o.jpg"/>
+          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/flickr_user_www_flickr_com_photos_peter_levi__user_id_93647178_N00_/7527879442_0bf0888027_o.jpg"/>
+          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/flickr_user_www_flickr_com_photos_peter_levi__user_id_93647178_N00_/7527879442_0bf0888027_o.jpg"/>
+          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/flickr_user_www_flickr_com_photos_peter_levi__user_id_93647178_N00_/7527879442_0bf0888027_o.jpg"/>
+          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/flickr_user_www_flickr_com_photos_peter_levi__user_id_93647178_N00_/7527879442_0bf0888027_o.jpg"/>
+          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
+        </property>
+      </property>
+      <property name="monitor2" type="empty">
+        <property name="image-path" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
+        <property name="image-style" type="empty"/>
+        <property name="image-show" type="empty"/>
+      </property>
+      <property name="monitor3" type="empty">
+        <property name="image-path" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
+        <property name="image-style" type="empty"/>
+        <property name="image-show" type="empty"/>
+      </property>
+      <property name="monitorHDMI-1" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
+        </property>
+      </property>
+      <property name="monitorDP-1" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
+        </property>
+      </property>
+      <property name="monitorHDMI-0" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
+        </property>
+      </property>
+      <property name="monitorDVI-0" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
+        </property>
+      </property>
+      <property name="monitorHDMI-2" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
+        </property>
+      </property>
+      <property name="monitorHDMI-1-2" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
+        </property>
+      </property>
+      <property name="monitorDVI-1-0" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/home/oleg/.config/variety/Downloaded/Bing/OHR.TahoeBeach_EN-US6105713817_1920x1080.jpg"/>
         </property>
       </property>
     </property>
